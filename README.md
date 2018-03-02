@@ -1,2 +1,2 @@
 # DesignPatterns
-Simple sample java implementation to represent Design patterns
+Simple sample java implementations to represent Design patterns
